@@ -1,0 +1,11 @@
+ 
+.card_item figcaption {
+    background-color: rgb(6, 6, 85);
+}
+.card_item figcaption .text p{
+    color: goldenrod;
+}
+[class^='imghvr-'],
+[class*=' imghvr-'] {
+  background-color: white;
+}
